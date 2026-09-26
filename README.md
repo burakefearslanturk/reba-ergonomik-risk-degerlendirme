@@ -10,17 +10,6 @@ REBA (Rapid Entire Body Assessment) yöntemi ile iş istasyonlarında ergonomik 
 | Ceren Gündüz | İş istasyonu senaryoları, veri toplama, iyileştirme önerisi tasarımı | @cerengunduz |
 | Şevval Bengü Gündüz | Görselleştirme, sonuçların yorumlanması, README ve sunum | @sevvalbengu |
 
-## Görev Dağılımı
-
-| Görev | Sorumlu | Durum |
-|---|---|---|
-| REBA Tablo A/B/C lookup mantığının kodlanması, alt-skor fonksiyonları | Burak Efe Arslantürk | ✅ Tamamlandı |
-| 6 iş istasyonu için gerçekçi duruş senaryolarının oluşturulması | Ceren Gündüz | ✅ Tamamlandı |
-| En riskli istasyon için iyileştirme (before/after) senaryosunun tasarlanması | Ceren Gündüz | ✅ Tamamlandı |
-| Risk sıralaması, grup kırılımı ve iyileştirme karşılaştırma grafiklerinin çizilmesi | Şevval Bengü Gündüz | ✅ Tamamlandı |
-| Sonuçların yorumlanması, README derlenmesi | Şevval Bengü Gündüz | ✅ Tamamlandı |
-
-*Bu dağılım öneridir; ekip olarak anlaştığınız gibi değiştirebilirsiniz.*
 
 ## Problem
 

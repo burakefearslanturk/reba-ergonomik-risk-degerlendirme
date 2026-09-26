@@ -8,7 +8,7 @@ REBA (Rapid Entire Body Assessment) yöntemi ile iş istasyonlarında ergonomik 
 |---|---|---|
 | Burak Efe Arslantürk | REBA skorlama motoru (Tablo A/B/C), proje koordinasyonu | @burakefearslanturk |
 | Ceren Gündüz | İş istasyonu senaryoları, veri toplama, iyileştirme önerisi tasarımı | @cerengunduz |
-| Şevval Bengü Gündüz | Görselleştirme, sonuçların yorumlanması, README ve sunum | @sevvallbengu |
+| Şevval Bengü Gündüz | Görselleştirme, sonuçların yorumlanması, README ve sunum | @sevvalbengu |
 
 ## Görev Dağılımı
 
